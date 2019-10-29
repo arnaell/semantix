@@ -25,11 +25,12 @@ Sobre o dataset​ : Esses dois conjuntos de dados possuem todas as requisiçõe
 Questões
 ​Responda​ ​ as​ ​ seguintes​ ​ questões​ ​ devem​ ​ ser​ ​ desenvolvidas​ ​ em​ ​ Spark​ ​ utilizando​ ​ a ​ ​ sua​ ​ linguagem​ ​ de​ ​ preferência.
 
-Número​ ​ de​ ​ hosts​ ​ únicos
-O​ ​ total​ ​ de​ ​ erros​ ​ 404
+1. Número​ ​ de​ ​ hosts​ ​ únicos
 
-Os​ ​ 5 ​ ​ URLs​ ​ que​ ​ mais​ ​ causaram​ ​ erro​ ​ 404
+2. O​ ​ total​ ​ de​ ​ erros​ ​ 404
 
-Quantidade​ ​ de​ ​ erros​ ​ 404​ ​ por​ ​ dia.
+3. Os​ ​ 5 ​ ​ URLs​ ​ que​ ​ mais​ ​ causaram​ ​ erro​ ​ 404
 
-O​ ​ total​ ​ de​ ​ bytes​ ​ retornados.
+4. Quantidade​ ​ de​ ​ erros​ ​ 404​ ​ por​ ​ dia.
+
+5. O​ ​ total​ ​ de​ ​ bytes​ ​ retornados.
